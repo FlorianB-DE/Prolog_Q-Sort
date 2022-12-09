@@ -1,0 +1,11 @@
+{
+    "image": "swipl:stable",
+	"workspaceFolder": "/home",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"rebornix.prolog"
+			]
+		}
+	}
+}
